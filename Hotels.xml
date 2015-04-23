@@ -1,0 +1,70 @@
+<?xml version='1.0'?>
+<!-- This file represents and instances of 5 hotels -->
+<hotels>
+	<hotel stars="****">
+		<name>The Mirage</name>
+		<contact>
+			<phone>7027917111</phone>
+			<email>contact@themirage.com</email>
+		</contact>
+		<address>
+			<number>3400</number>
+			<street>S Las Vegas Blvd</street>
+			<city>Las Vegas</city>
+			<zip>89109</zip>
+		</address>
+	</hotel>	
+	<hotel stars="*****">
+		<name>The Venetian</name>
+		<contact>
+			<phone>7024141000</phone>
+			<email>venetian@thevenetian.com</email>
+		</contact>
+		<address>
+			<number>3355</number>
+			<street>S Las Vegas Blvd</street>
+			<city>Las Vegas</city>
+			<zip>89109</zip>
+		</address>
+	</hotel>
+	<hotel stars="*****">
+		<name>Wynn Las Vegas</name>
+		<contact>
+			<phone>7027707000</phone>
+			<email>wynn@wynnlasvegas.com</email>
+		</contact>
+		<address>
+			<number>3131</number>
+			<street>S Las Vegas Blvd</street>
+			<city>Las Vegas</city>
+			<zip>89109</zip>
+		</address>
+	</hotel>
+	<hotel stars="*****">
+		<name>The Palazzo</name>
+		<contact>
+			<phone>7026077777</phone>
+			<email>contact@thepalazzo.com</email>
+		</contact>
+		<address>
+			<number>3325</number>
+			<street>S Las Vegas Blvd</street>
+			<city>Las Vegas</city>
+			<zip>89109</zip>
+		</address>
+	</hotel>
+	<hotel stars="***">
+		<name>Circus Circus</name>
+		<contact>
+			<phone>8006343450</phone>
+			<email>circus@circuscircus.com</email>
+		</contact>
+		<address>
+			<number>2880</number>
+			<street>S Las Vegas Blvd</street>
+			<city>Las Vegas</city>
+			<zip>89109</zip>
+		</address>
+	</hotel>
+</hotels>
+		
